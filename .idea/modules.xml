@@ -9,16 +9,26 @@
       <module fileurl="file://$PROJECT_DIR$/abstract design 3/abstract design 3.iml" filepath="$PROJECT_DIR$/abstract design 3/abstract design 3.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstract factory/abstract factory.iml" filepath="$PROJECT_DIR$/abstract factory/abstract factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstract factory 2/abstract factory 2.iml" filepath="$PROJECT_DIR$/abstract factory 2/abstract factory 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adaptor/adaptor.iml" filepath="$PROJECT_DIR$/adaptor/adaptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adaptor2/adaptor2.iml" filepath="$PROJECT_DIR$/adaptor2/adaptor2.iml" />
       <module fileurl="file://$PROJECT_DIR$/comparable/comparable.iml" filepath="$PROJECT_DIR$/comparable/comparable.iml" />
       <module fileurl="file://$PROJECT_DIR$/comparable2/comparable2.iml" filepath="$PROJECT_DIR$/comparable2/comparable2.iml" />
       <module fileurl="file://$PROJECT_DIR$/comparator/comparator.iml" filepath="$PROJECT_DIR$/comparator/comparator.iml" />
       <module fileurl="file://$PROJECT_DIR$/comparator2/comparator2.iml" filepath="$PROJECT_DIR$/comparator2/comparator2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator/decorator.iml" filepath="$PROJECT_DIR$/decorator/decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator2/decorator2.iml" filepath="$PROJECT_DIR$/decorator2/decorator2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/default interface/default interface.iml" filepath="$PROJECT_DIR$/default interface/default interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory design 3/factory design 3.iml" filepath="$PROJECT_DIR$/factory design 3/factory design 3.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory design2/factory design2.iml" filepath="$PROJECT_DIR$/factory design2/factory design2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forEach/forEach.iml" filepath="$PROJECT_DIR$/forEach/forEach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functional interface/functional interface.iml" filepath="$PROJECT_DIR$/functional interface/functional interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observer/observer.iml" filepath="$PROJECT_DIR$/observer/observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/prototype/prototype.iml" filepath="$PROJECT_DIR$/prototype/prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory design 3/Prototype2/prototype2.iml" filepath="$PROJECT_DIR$/factory design 3/Prototype2/prototype2.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton 2/singleton 2.iml" filepath="$PROJECT_DIR$/singleton 2/singleton 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton design/singleton design.iml" filepath="$PROJECT_DIR$/singleton design/singleton design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statepattern/statepattern.iml" filepath="$PROJECT_DIR$/statepattern/statepattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static interface/static interface.iml" filepath="$PROJECT_DIR$/static interface/static interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/threads/threads.iml" filepath="$PROJECT_DIR$/threads/threads.iml" />
     </modules>
   </component>
